@@ -16,9 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,latex,regex,html,css,js,git,github&theme=dark)](https://skillicons.dev)
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
-<img alt="David-Ellis's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=David-Ellis&show_icons=true&theme=dracula">
+<!-- <img alt="David-Ellis's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=David-Ellis&show_icons=true&theme=dracula"> -->
 
 ## Dark Matter Textbook
 
